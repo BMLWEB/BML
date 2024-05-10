@@ -7,7 +7,8 @@ This script uses Bootstrap 5 and jQuery and Fontawesome for design
 
 Note: 
 
-1. create an .htaccess file with files and add the following code in it:
+1. create an `.htaccess` file with files and add the following code in it:
+2. 
 `
    php_value max_execution_time 600
    php_value memory_limit 2048M
