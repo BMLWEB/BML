@@ -13,6 +13,7 @@ Note:
    php_value max_execution_time 600
    php_value memory_limit 2048M
 `
+
 3. File `pwlist_small.txt` contains password guesses you can add more to it and don't forget to check duplicates of word and remove them using a text editor.
 
 How to use:
