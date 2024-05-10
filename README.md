@@ -7,7 +7,7 @@ This script uses Bootstrap 5 and jQuery and Fontawesome for design
 
 Note: 
 
-1. create an `.htaccess` file with files and add the following code in it:
+1. create an `.htaccess` file with files and add the following code in it each one in a line:
 
 `
    php_value max_execution_time 600
